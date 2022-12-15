@@ -128,11 +128,14 @@
     background-color: antiquewhite;
     font-size: 20px;
     cursor: pointer;
-    width: 10%;
+    width: 15%;
     border-radius: 7px;
     margin-top: 10px;
     border-width: 2px;
 }
+
+.submit
+
 
 .cont{
     display: flex;
