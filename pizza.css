@@ -134,11 +134,9 @@
     border-width: 2px;
 }
 
-.submit
-
-
 .cont{
     display: flex;
+    flex-direction: center;
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lgNyrpY2mfCoY6XIbuY0Eij-jSVzOk36Mg&usqp=CAU);
     background-repeat: no-repeat;
     background-position: right;
